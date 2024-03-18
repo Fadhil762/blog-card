@@ -15,7 +15,7 @@ body{
     flex-direction:row;
     align-items: center;
     justify-content: center;
-    margin: 30px 500px 100px 500px;
+    margin: 50px auto 50px auto;
     box-shadow: 8px 9px 1px 1px #000000;
 }
 .card-wrapper{
